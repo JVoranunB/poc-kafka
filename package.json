@@ -1,0 +1,20 @@
+{
+  "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "eslint": "^9.12.0",
+    "eslint-plugin-jest": "^28.8.3",
+    "eslint-plugin-react": "^7.37.1",
+    "globals": "^15.11.0",
+    "jest": "^29.7.0",
+    "jshint": "^2.13.6",
+    "prettier": "^3.3.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "@confluentinc/kafka-javascript": "^0.3.0",
+    "kafkajs": "^2.2.4",
+    "lodash": "^4.17.21"
+  }
+}
